@@ -6,6 +6,9 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+// link to problem:
+// https://www.hackerrank.com/challenges/count-triplets-1/problem
+
 public class Solution {
 
     // Complete the countTriplets function below.
